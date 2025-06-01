@@ -1,0 +1,4 @@
+.DS_Store
+config/monitor_domains.json
+config/logged_domains.json
+config/logbook.json

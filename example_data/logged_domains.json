@@ -1,0 +1,33 @@
+[
+  {
+    "input_domain": "acompnay.com",
+    "matched_value": "acompany.com",
+    "matched_brand": "acompany",
+    "num_checks_matched": 2,
+    "checks_matched": [
+      "Levenshtein",
+      "Jaro-Winkler"
+    ],
+    "timestamp": "YYYY-MM-DDT00:00:00.000000+10:00"
+  },
+  {
+    "input_domain": "acompany.co",
+    "matched_value": "acompany.com",
+    "matched_brand": "acompany",
+    "num_checks_matched": 2,
+    "checks_matched": [
+      "Jaro-Winkler"
+    ],
+    "timestamp": "YYYY-MM-DDT00:00:00.000000+10:00"
+  },
+  {
+    "input_domain": "acompany.support",
+    "matched_value": "acompany.com",
+    "matched_brand": "acompany",
+    "num_checks_matched": 2,
+    "checks_matched": [
+      "Levenshtein"
+    ],
+    "timestamp": "YYYY-MM-DDT00:00:00.000000+10:00"
+  }
+]

@@ -1,0 +1,382 @@
+[
+  {
+    "name": "Google 'Argon2025h1' log",
+    "url": "https://ct.googleapis.com/logs/us1/argon2025h1/",
+    "sth": {
+      "tree_size": 1424068419,
+      "previous_tree_size": 1424067683,
+      "timestamp": 1748498701651,
+      "previous_timestamp": 1748497271623
+    }
+  },
+  {
+    "name": "Google 'Argon2025h2' log",
+    "url": "https://ct.googleapis.com/logs/us1/argon2025h2/",
+    "sth": {
+      "tree_size": 863710558,
+      "previous_tree_size": 863529025,
+      "timestamp": 1748498702257,
+      "previous_timestamp": 1748497273379
+    }
+  },
+  {
+    "name": "Google 'Argon2026h1' log",
+    "url": "https://ct.googleapis.com/logs/us1/argon2026h1/",
+    "sth": {
+      "tree_size": 171417802,
+      "previous_tree_size": 171401166,
+      "timestamp": 1748498702662,
+      "previous_timestamp": 1748497273968
+    }
+  },
+  {
+    "name": "Google 'Argon2026h2' log",
+    "url": "https://ct.googleapis.com/logs/us1/argon2026h2/",
+    "sth": {
+      "tree_size": 26264,
+      "previous_tree_size": 26263,
+      "timestamp": 1748498031820,
+      "previous_timestamp": 1748496911489
+    }
+  },
+  {
+    "name": "Google 'Xenon2025h1' log",
+    "url": "https://ct.googleapis.com/logs/eu1/xenon2025h1/",
+    "sth": {
+      "tree_size": 1867222824,
+      "previous_tree_size": 1867222182,
+      "timestamp": 1748498701697,
+      "previous_timestamp": 1748497273488
+    }
+  },
+  {
+    "name": "Google 'Xenon2025h2' log",
+    "url": "https://ct.googleapis.com/logs/eu1/xenon2025h2/",
+    "sth": {
+      "tree_size": 851403902,
+      "previous_tree_size": 851210288,
+      "timestamp": 1748498705470,
+      "previous_timestamp": 1748497276321
+    }
+  },
+  {
+    "name": "Google 'Xenon2026h1' log",
+    "url": "https://ct.googleapis.com/logs/eu1/xenon2026h1/",
+    "sth": {
+      "tree_size": 128724592,
+      "previous_tree_size": 128714074,
+      "timestamp": 1748498706089,
+      "previous_timestamp": 1748497276855
+    }
+  },
+  {
+    "name": "Google 'Xenon2026h2' log",
+    "url": "https://ct.googleapis.com/logs/eu1/xenon2026h2/",
+    "sth": {
+      "tree_size": 26287,
+      "previous_tree_size": 26287,
+      "timestamp": 1748498082537,
+      "previous_timestamp": 1748494482510
+    }
+  },
+  {
+    "name": "Cloudflare 'Nimbus2025'",
+    "url": "https://ct.cloudflare.com/logs/nimbus2025/",
+    "sth": {
+      "tree_size": 1620902905,
+      "previous_tree_size": 1620902905,
+      "timestamp": 1748493802624,
+      "previous_timestamp": 1748493802624
+    }
+  },
+  {
+    "name": "Cloudflare 'Nimbus2026'",
+    "url": "https://ct.cloudflare.com/logs/nimbus2026/",
+    "sth": {
+      "tree_size": 252782572,
+      "previous_tree_size": 252782572,
+      "timestamp": 1748495535012,
+      "previous_timestamp": 1748495535012
+    }
+  },
+  {
+    "name": "DigiCert Yeti2025 Log",
+    "url": "https://yeti2025.ct.digicert.com/log/",
+    "sth": {
+      "tree_size": 1650893868,
+      "previous_tree_size": 1650827934,
+      "timestamp": 1748455573065,
+      "previous_timestamp": 1748453766065
+    }
+  },
+  {
+    "name": "DigiCert 'Wyvern2025h2' Log",
+    "url": "https://wyvern.ct.digicert.com/2025h2/",
+    "sth": {
+      "tree_size": 254091963,
+      "previous_tree_size": 254026600,
+      "timestamp": 1748498768218,
+      "previous_timestamp": 1748497338990
+    }
+  },
+  {
+    "name": "DigiCert 'Wyvern2026h1'",
+    "url": "https://wyvern.ct.digicert.com/2026h1/",
+    "sth": {
+      "tree_size": 153278174,
+      "previous_tree_size": 153262703,
+      "timestamp": 1748498768294,
+      "previous_timestamp": 1748497339037
+    }
+  },
+  {
+    "name": "DigiCert 'Wyvern2026h2'",
+    "url": "https://wyvern.ct.digicert.com/2026h2/",
+    "sth": {
+      "tree_size": 35308,
+      "previous_tree_size": 35308,
+      "timestamp": 1748495982862,
+      "previous_timestamp": 1748495982862
+    }
+  },
+  {
+    "name": "DigiCert 'Sphinx2025h2' Log",
+    "url": "https://sphinx.ct.digicert.com/2025h2/",
+    "sth": {
+      "tree_size": 250010450,
+      "previous_tree_size": 249945048,
+      "timestamp": 1748498769262,
+      "previous_timestamp": 1748497339990
+    }
+  },
+  {
+    "name": "DigiCert 'Sphinx2026h1'",
+    "url": "https://sphinx.ct.digicert.com/2026h1/",
+    "sth": {
+      "tree_size": 102931130,
+      "previous_tree_size": 102922513,
+      "timestamp": 1748498769034,
+      "previous_timestamp": 1748497340161
+    }
+  },
+  {
+    "name": "DigiCert 'Sphinx2026h2'",
+    "url": "https://sphinx.ct.digicert.com/2026h2/",
+    "sth": {
+      "tree_size": 35310,
+      "previous_tree_size": 35310,
+      "timestamp": 1748496788138,
+      "previous_timestamp": 1748496788138
+    }
+  },
+  {
+    "name": "Sectigo 'Sabre2025h1'",
+    "url": "https://sabre2025h1.ct.sectigo.com/",
+    "sth": {
+      "tree_size": 500617408,
+      "previous_tree_size": 500616635,
+      "timestamp": 1748498643335,
+      "previous_timestamp": 1748497325540
+    }
+  },
+  {
+    "name": "Sectigo 'Sabre2025h2'",
+    "url": "https://sabre2025h2.ct.sectigo.com/",
+    "sth": {
+      "tree_size": 295325188,
+      "previous_tree_size": 295209938,
+      "timestamp": 1748498712391,
+      "previous_timestamp": 1748497229444
+    }
+  },
+  {
+    "name": "Sectigo 'Mammoth2025h1'",
+    "url": "https://mammoth2025h1.ct.sectigo.com/",
+    "sth": {
+      "tree_size": 511085595,
+      "previous_tree_size": 511084740,
+      "timestamp": 1748498763730,
+      "previous_timestamp": 1748497327436
+    }
+  },
+  {
+    "name": "Sectigo 'Mammoth2025h2'",
+    "url": "https://mammoth2025h2.ct.sectigo.com/",
+    "sth": {
+      "tree_size": 259820134,
+      "previous_tree_size": 259698298,
+      "timestamp": 1748498773617,
+      "previous_timestamp": 1748496824689
+    }
+  },
+  {
+    "name": "Sectigo 'Mammoth2026h1'",
+    "url": "https://mammoth2026h1.ct.sectigo.com/",
+    "sth": {
+      "tree_size": 41577236,
+      "previous_tree_size": 41575360,
+      "timestamp": 1748498678718,
+      "previous_timestamp": 1748497316004
+    }
+  },
+  {
+    "name": "Sectigo 'Mammoth2026h2'",
+    "url": "https://mammoth2026h2.ct.sectigo.com/",
+    "sth": {
+      "tree_size": 25576,
+      "previous_tree_size": 25576,
+      "timestamp": 1748496913880,
+      "previous_timestamp": 1748496913880
+    }
+  },
+  {
+    "name": "Sectigo 'Sabre2026h1'",
+    "url": "https://sabre2026h1.ct.sectigo.com/",
+    "sth": {
+      "tree_size": 45129729,
+      "previous_tree_size": 45127606,
+      "timestamp": 1748498670467,
+      "previous_timestamp": 1748497310031
+    }
+  },
+  {
+    "name": "Sectigo 'Sabre2026h2'",
+    "url": "https://sabre2026h2.ct.sectigo.com/",
+    "sth": {
+      "tree_size": 25615,
+      "previous_tree_size": 25615,
+      "timestamp": 1748497296033,
+      "previous_timestamp": 1748493696024
+    }
+  },
+  {
+    "name": "Sectigo 'Elephant2025h2'",
+    "url": "https://elephant2025h2.ct.sectigo.com/",
+    "sth": {
+      "tree_size": 206250475,
+      "previous_tree_size": 206186679,
+      "timestamp": 1748497275890,
+      "previous_timestamp": 1748496000583
+    }
+  },
+  {
+    "name": "Sectigo 'Elephant2026h1'",
+    "url": "https://elephant2026h1.ct.sectigo.com/",
+    "sth": {
+      "tree_size": 35914730,
+      "previous_tree_size": 35912923,
+      "timestamp": 1748498771930,
+      "previous_timestamp": 1748497342730
+    }
+  },
+  {
+    "name": "Sectigo 'Elephant2026h2'",
+    "url": "https://elephant2026h2.ct.sectigo.com/",
+    "sth": {
+      "tree_size": 3163,
+      "previous_tree_size": 3163,
+      "timestamp": 1748495264454,
+      "previous_timestamp": 1748495264454
+    }
+  },
+  {
+    "name": "Sectigo 'Elephant2027h1'",
+    "url": "https://elephant2027h1.ct.sectigo.com/",
+    "sth": {
+      "tree_size": 3166,
+      "previous_tree_size": 3164,
+      "timestamp": 1748497856347,
+      "previous_timestamp": 1748496908152
+    }
+  },
+  {
+    "name": "Sectigo 'Elephant2027h2'",
+    "url": "https://elephant2027h2.ct.sectigo.com/",
+    "sth": {
+      "tree_size": 3161,
+      "previous_tree_size": 3160,
+      "timestamp": 1748497746522,
+      "previous_timestamp": 1748496983510
+    }
+  },
+  {
+    "name": "Let's Encrypt 'Oak2025h1'",
+    "url": "https://oak.ct.letsencrypt.org/2025h1/",
+    "sth": {
+      "tree_size": 986633205,
+      "previous_tree_size": 986632397,
+      "timestamp": 1748498787062,
+      "previous_timestamp": 1748497362193
+    }
+  },
+  {
+    "name": "Let's Encrypt 'Oak2025h2'",
+    "url": "https://oak.ct.letsencrypt.org/2025h2/",
+    "sth": {
+      "tree_size": 585014619,
+      "previous_tree_size": 584838318,
+      "timestamp": 1748498788565,
+      "previous_timestamp": 1748497362506
+    }
+  },
+  {
+    "name": "Let's Encrypt 'Oak2026h1'",
+    "url": "https://oak.ct.letsencrypt.org/2026h1/",
+    "sth": {
+      "tree_size": 59226886,
+      "previous_tree_size": 59222733,
+      "timestamp": 1748498788505,
+      "previous_timestamp": 1748497361684
+    }
+  },
+  {
+    "name": "Let's Encrypt 'Oak2026h2'",
+    "url": "https://oak.ct.letsencrypt.org/2026h2/",
+    "sth": {
+      "tree_size": 447016,
+      "previous_tree_size": 446937,
+      "timestamp": 1748498751800,
+      "previous_timestamp": 1748497325942
+    }
+  },
+  {
+    "name": "TrustAsia Log2025a",
+    "url": "https://ct2025-a.trustasia.com/log2025a/",
+    "sth": {
+      "tree_size": 87451555,
+      "previous_tree_size": 87444610,
+      "timestamp": 1748498733391,
+      "previous_timestamp": 1748497276455
+    }
+  },
+  {
+    "name": "TrustAsia Log2025b",
+    "url": "https://ct2025-b.trustasia.com/log2025b/",
+    "sth": {
+      "tree_size": 78814013,
+      "previous_tree_size": 78805266,
+      "timestamp": 1748498703027,
+      "previous_timestamp": 1748497256806
+    }
+  },
+  {
+    "name": "TrustAsia 'log2026a'",
+    "url": "https://ct2026-a.trustasia.com/log2026a/",
+    "sth": {
+      "tree_size": 11055736,
+      "previous_tree_size": 11055389,
+      "timestamp": 1748498649529,
+      "previous_timestamp": 1748497306852
+    }
+  },
+  {
+    "name": "TrustAsia 'log2026b'",
+    "url": "https://ct2026-b.trustasia.com/log2026b/",
+    "sth": {
+      "tree_size": 17755280,
+      "previous_tree_size": 17755036,
+      "timestamp": 1748498587740,
+      "previous_timestamp": 1748497272297
+    }
+  }
+]
