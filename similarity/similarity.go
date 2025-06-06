@@ -50,11 +50,26 @@ func loadConfig() error {
 }
 
 func replaceHomoglyphs(s string) string {
-	homoglyphs := map[rune]rune{
-		'а': 'a', 'ｅ': 'e', 'і': 'i', 'o': 'o', 'р': 'p',
-		'ѕ': 's', 'ᴠ': 'v', 'ԝ': 'w', 'ⅿ': 'm', 'ⅼ': 'l',
-		'𝖾': 'e', '𝖺': 'a', '𝖿': 'f',
-	}
+    homoglyphs := map[rune]rune{
+        'а': 'a', // Cyrillic Small Letter A (U+0430)
+        'е': 'e', // Cyrillic Small Letter IE (U+0435) - Similar to Latin 'e'
+        'ё': 'e', // Cyrillic Small Letter YO (U+0451) - Similar to 'e'
+        'і': 'i', // Cyrillic Small Letter Dotted I (U+0456)
+        'о': 'o', // Cyrillic Small Letter O (U+043E)
+        'р': 'p', // Cyrillic Small Letter ER (U+0440)
+        'ѕ': 's', // Cyrillic Small Letter ES (U+0455) / Greek Sigma (U+03C2)
+        'ѵ': 'v', // Cyrillic Small Letter IZHITSA (U+0475) - Similar to 'v'
+        'ԝ': 'w', // Cyrillic Small Letter WE (U+0449) - Similar to 'w'
+        'ⅿ': 'm', // Fraktur Small M (U+212F) - Similar to 'm'
+        'ⅼ': 'l', // Roman Numeral One (U+216C) - Similar to 'l'
+        '𝖾': 'e', // Mathematical Sans-Serif Small E (U+1D586)
+        '𝖺': 'a', // Mathematical Sans-Serif Small A (U+1D584)
+        '𝖿': 'f', // Mathematical Sans-Serif Small F (U+1D588)
+        'т': 't', // Cyrillic Small Letter TE (U+0442) -
+        'ӏ': 'l', // Cyrillic Letter Palochka (U+04CF) -
+        'с': 'c', // Cyrillic Small Letter ES (U+0441) - Similar to 'c'
+        'м': 'm', // Cyrillic Small Letter EM (U+043C) - Similar to 'm'
+    }
 
 	var builder strings.Builder
 	for _, r := range s {
